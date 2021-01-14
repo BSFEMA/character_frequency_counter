@@ -7,3 +7,5 @@ I originally wrote this in VB.NET years ago as extended ASCII and Unicode charac
 When I started using Linux, I rewrote this in Python using Tkinter for the GUI.  This was my first application using Tkinter.  I later learned Gtk + Glade, so I re-wrote this again using that for the GUI.
 
 I'm including both versions here as they are essentially the same application, just with a different GUI language.  I thought that this might be useful to someone either as an application by itself (I still occasionally use this), or as an example of the differences between Tkinter and Gtk.
+
+Update:  I included a screensshot of both versions.
