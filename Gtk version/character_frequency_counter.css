@@ -1,0 +1,19 @@
+/* Main Object Types */
+window {}
+box {}
+scrolledwindow {}
+button {}
+textview {}
+
+/* Individual Objects */
+window#main_window {}
+box#box_Main {}
+scrolledwindow#scrolledwindow_Input {}
+textview#textview_Input {}
+box#box_Buttons {}
+button#button_Count_Frequencies {}
+button#button_Highlight {}
+button#button_Clear_Input {}
+button#button_Exit {}
+scrolledwindow#scrolledwindow_Output {}
+textview#textview_Output {}
